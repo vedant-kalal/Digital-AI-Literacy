@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 Navprabhat Topic — AI-Powered Learning Platform for Rural India
+# 🏆 	Navprabhat Digital AI Literacy — AI-Powered Learning Platform for Rural India
 
 Winner of the “Maveric Effect” Hackathon
 
